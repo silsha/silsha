@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models. (3 days ago)
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021 (5 days ago)
 - [bundesAPI/strukturen](https://github.com/bundesAPI/strukturen) -  (5 days ago)
 - [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive (1 week ago)
-- [jordanruthe/KlipperScreen](https://github.com/jordanruthe/KlipperScreen) - GUI for Klipper (2 weeks ago)
