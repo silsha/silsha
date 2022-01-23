@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [zerforschung/schnelltesttest.de](https://github.com/zerforschung/schnelltesttest.de) -  (today)
-- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful &amp; customizable browser startpage/dashboard with Kubernetes application discovery. (today)
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (3 days ago)
+- [zerforschung/schnelltesttest.de](https://github.com/zerforschung/schnelltesttest.de) -  (1 day ago)
+- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful &amp; customizable browser startpage/dashboard with Kubernetes application discovery. (1 day ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (4 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models. (1 week ago)
