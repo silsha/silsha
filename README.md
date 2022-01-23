@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [RPG-Paper-Maker/RPG-Paper-Maker](https://github.com/RPG-Paper-Maker/RPG-Paper-Maker) - RPG Paper Maker is a game making engine, free for non commercial use, allowing you to create a 3D universe with many 2D sprites and even 3D objects using a simple interface for all available platforms: Windows, Linux, and MacOS. (today)
 - [IQTLabs/SkyScan](https://github.com/IQTLabs/SkyScan) - Automatically photograph planes that fly by! (today)
 - [zerforschung/schnelltesttest.de](https://github.com/zerforschung/schnelltesttest.de) -  (1 day ago)
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful &amp; customizable browser startpage/dashboard with Kubernetes application discovery. (1 day ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (4 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
