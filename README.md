@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (2 days ago)
-- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (2 days ago)
-- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (4 days ago)
-- [RPG-Paper-Maker/RPG-Paper-Maker](https://github.com/RPG-Paper-Maker/RPG-Paper-Maker) - RPG Paper Maker is a game making engine, free for non commercial use, allowing you to create a 3D universe with many 2D sprites and even 3D objects using a simple interface for all available platforms: Windows, Linux, and MacOS. (4 days ago)
-- [IQTLabs/SkyScan](https://github.com/IQTLabs/SkyScan) - Automatically photograph planes that fly by! (4 days ago)
+- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (3 days ago)
+- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (3 days ago)
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (5 days ago)
+- [RPG-Paper-Maker/RPG-Paper-Maker](https://github.com/RPG-Paper-Maker/RPG-Paper-Maker) - RPG Paper Maker is a game making engine, free for non commercial use, allowing you to create a 3D universe with many 2D sprites and even 3D objects using a simple interface for all available platforms: Windows, Linux, and MacOS. (5 days ago)
+- [IQTLabs/SkyScan](https://github.com/IQTLabs/SkyScan) - Automatically photograph planes that fly by! (5 days ago)
