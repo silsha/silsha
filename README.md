@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 day ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 day ago)
-- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (4 days ago)
-- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (4 days ago)
-- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (6 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (2 days ago)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (2 days ago)
+- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (5 days ago)
+- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (5 days ago)
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 week ago)
