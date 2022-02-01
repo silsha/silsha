@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (3 days ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (3 days ago)
-- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (6 days ago)
-- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (6 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 days ago)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (4 days ago)
+- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (1 week ago)
+- [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (1 week ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 week ago)
