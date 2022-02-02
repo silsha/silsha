@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (7 months ago)
-- [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (8 months ago)
+- [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 days ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (4 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (5 days ago)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (5 days ago)
 - [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (1 week ago)
 - [xvello/letsblockit](https://github.com/xvello/letsblockit) - A collection of custom uBlock filters to hide low-value content. (1 week ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 week ago)
