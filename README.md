@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (today)
+- [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (today)
 - [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (2 days ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 week ago)
-- [DasUnicorn/Bundeswehrbung](https://github.com/DasUnicorn/Bundeswehrbung) - Statistics based on the YouTube Webseries &#34;Die Rekruten&#34; by the German Military (1 week ago)
-- [xvello/letsblockit](https://github.com/xvello/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set. (1 week ago)
