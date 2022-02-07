@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (7 months ago)
+- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (8 months ago)
 - [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (9 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (1 day ago)
-- [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (1 day ago)
-- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (3 days ago)
+- [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (2 days ago)
+- [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (2 days ago)
+- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (4 days ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 week ago)
