@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (2 days ago)
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (3 days ago)
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (1 week ago)
 - [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (1 week ago)
 - [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (1 week ago)
