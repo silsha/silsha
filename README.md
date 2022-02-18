@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads. (3 days ago)
+- [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads. (4 days ago)
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (1 week ago)
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (1 week ago)
 - [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (1 week ago)
