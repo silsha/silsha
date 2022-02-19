@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (today)
 - [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads. (5 days ago)
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (1 week ago)
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (2 weeks ago)
 - [Kimtaro/kanjivg2svg](https://github.com/Kimtaro/kanjivg2svg) - Ruby script to convert SVG data from the KanjiVG project (2 weeks ago)
-- [swechhachoudhary/Handwriting-synthesis](https://github.com/swechhachoudhary/Handwriting-synthesis) - Implementation of &#34;Generating Sequences With Recurrent Neural Networks&#34; https://arxiv.org/abs/1308.0850 (2 weeks ago)
