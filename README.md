@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (today)
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (2 days ago)
+- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (1 day ago)
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (3 days ago)
 - [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads. (1 week ago)
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (1 week ago)
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji description and vectorial data in correct stroke order (2 weeks ago)
