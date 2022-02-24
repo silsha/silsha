@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (today)
-- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (2 days ago)
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (4 days ago)
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (1 day ago)
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (1 day ago)
+- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (3 days ago)
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) -  Grist is the evolution of spreadsheets.  (5 days ago)
 - [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads. (1 week ago)
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (1 week ago)
