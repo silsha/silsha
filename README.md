@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (1 day ago)
-- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (1 day ago)
-- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (3 days ago)
-- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (3 days ago)
-- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (5 days ago)
+- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (2 days ago)
+- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (2 days ago)
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (4 days ago)
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (4 days ago)
+- [PedroFonseca/ecodump](https://github.com/PedroFonseca/ecodump) -  (6 days ago)
