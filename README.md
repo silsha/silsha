@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (1 day ago)
-- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (3 days ago)
-- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (3 days ago)
-- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (5 days ago)
-- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (5 days ago)
+- [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (2 days ago)
+- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (4 days ago)
+- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (4 days ago)
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (6 days ago)
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms. (6 days ago)
