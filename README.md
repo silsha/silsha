@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (today)
-- [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (3 days ago)
-- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (5 days ago)
-- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (5 days ago)
+- [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (1 day ago)
+- [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (4 days ago)
+- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (6 days ago)
+- [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (6 days ago)
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (1 week ago)
