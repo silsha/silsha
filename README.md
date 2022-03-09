@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (8 months ago)
+- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (9 months ago)
 - [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (10 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (6 days ago)
+- [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (1 week ago)
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (1 week ago)
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (1 week ago)
 - [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (1 week ago)
-- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (1 week ago)
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (2 weeks ago)
