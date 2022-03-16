@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [schinken/esp8266-geigercounter](https://github.com/schinken/esp8266-geigercounter) - wifi connected geigercounter using an mightyohm.com geigercounter and esp8266 (today)
 - [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (2 weeks ago)
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (2 weeks ago)
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (2 weeks ago)
 - [thomasfn/EcoCompaniesMod](https://github.com/thomasfn/EcoCompaniesMod) -  (2 weeks ago)
-- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller. (3 weeks ago)
