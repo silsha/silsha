@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
 - [schinken/esp8266-geigercounter](https://github.com/schinken/esp8266-geigercounter) - wifi connected geigercounter using an mightyohm.com geigercounter and esp8266 (1 week ago)
 - [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (3 weeks ago)
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (3 weeks ago)
-- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (3 weeks ago)
+- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (4 weeks ago)
