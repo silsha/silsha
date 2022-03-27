@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [inverse-inc/sogo](https://github.com/inverse-inc/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices. (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 - [schinken/esp8266-geigercounter](https://github.com/schinken/esp8266-geigercounter) - wifi connected geigercounter using an mightyohm.com geigercounter and esp8266 (1 week ago)
 - [bbbradsmith/NESertGolfing](https://github.com/bbbradsmith/NESertGolfing) - A 2D golf game for the NES. (3 weeks ago)
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation  (4 weeks ago)
-- [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) -  (1 month ago)
