@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (9 months ago)
+- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (10 months ago)
 - [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (11 months ago)
 
 #### 🌱 My latest projects
