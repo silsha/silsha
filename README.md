@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
-- [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (2 days ago)
-- [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (5 days ago)
-- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (5 days ago)
+- [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (3 days ago)
+- [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (6 days ago)
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (6 days ago)
 - [j7126/OctoPrint-Dashboard](https://github.com/j7126/OctoPrint-Dashboard) - A dashboard for Octoprint (1 week ago)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection (1 week ago)
