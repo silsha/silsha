@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (today)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (today)
 - [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (4 days ago)
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (1 week ago)
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (1 week ago)
-- [j7126/OctoPrint-Dashboard](https://github.com/j7126/OctoPrint-Dashboard) - A dashboard for Octoprint (1 week ago)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection (1 week ago)
