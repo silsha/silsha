@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (1 day ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (1 day ago)
-- [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (5 days ago)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (2 days ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (2 days ago)
+- [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (6 days ago)
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (1 week ago)
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life (1 week ago)
