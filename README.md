@@ -4,7 +4,6 @@
 
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (2 weeks ago)
 - [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (11 months ago)
-- [penpot/penpot-docs](https://github.com/penpot/penpot-docs) - Website and documentation about Penpot, The Open-Source design &amp; prototyping platform (1 year ago)
 
 #### 🌱 My latest projects
 
