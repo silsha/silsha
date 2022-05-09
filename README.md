@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦 4 Color Themes (Magenta Red / Orange / Green / Blue) &#43; 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows. (today)
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (3 days ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (3 days ago)
+- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦 4 Color Themes (Magenta Red / Orange / Green / Blue) &#43; 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows. (1 day ago)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (4 days ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (4 days ago)
 - [the-pudding/data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public. (1 week ago)
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that&#39;s a thing (1 week ago)
