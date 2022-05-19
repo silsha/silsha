@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (3 weeks ago)
+- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (4 weeks ago)
 - [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (11 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (today)
-- [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants (1 day ago)
-- [LilithWittmann/transparency](https://github.com/LilithWittmann/transparency) - Transparenzreport (1 day ago)
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 day ago)
+- [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants (2 days ago)
+- [LilithWittmann/transparency](https://github.com/LilithWittmann/transparency) - Transparenzreport (2 days ago)
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦 4 Color Themes (Magenta Red / Orange / Green / Blue) &#43; 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows. (1 week ago)
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (1 week ago)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites (2 weeks ago)
