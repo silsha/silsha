@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (today)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (today)
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (6 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. (1 week ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 week ago)
-- [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants (2 weeks ago)
-- [LilithWittmann/transparency](https://github.com/LilithWittmann/transparency) - Transparenzreport (2 weeks ago)
