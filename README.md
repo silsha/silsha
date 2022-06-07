@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (1 month ago)
-- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (11 months ago)
+- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (6 days ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (6 days ago)
+- [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (1 week ago)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (1 week ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. (2 weeks ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 weeks ago)
