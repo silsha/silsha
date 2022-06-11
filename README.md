@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (today)
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (1 day ago)
 - [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (1 week ago)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 week ago)
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space (2 weeks ago)
