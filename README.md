@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (1 month ago)
-- [wneessen/sotbot](https://github.com/wneessen/sotbot) - 🏴‍☠️ Your humble Sea of Thieves Discord bot (1 year ago)
 
 #### 🌱 My latest projects
 
