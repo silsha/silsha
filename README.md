@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (today)
-- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (today)
-- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 day ago)
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (2 days ago)
+- [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (1 day ago)
+- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (1 day ago)
+- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (2 days ago)
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (3 days ago)
 - [seemoo-lab/airtag](https://github.com/seemoo-lab/airtag) - AirTag instrumentation including AirTechno and firmware downgrades. (1 week ago)
