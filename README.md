@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (today)
-- [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (5 days ago)
-- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (5 days ago)
-- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (6 days ago)
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (1 day ago)
+- [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (6 days ago)
+- [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (6 days ago)
+- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 week ago)
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (1 week ago)
