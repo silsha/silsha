@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things (today)
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker (1 day ago)
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (2 days ago)
 - [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (1 week ago)
 - [angelnu/home_assistant_thethingsnetwork](https://github.com/angelnu/home_assistant_thethingsnetwork) -  (1 week ago)
-- [Alpha-Omega-Technology/ttn-klax](https://github.com/Alpha-Omega-Technology/ttn-klax) - TTN Decoder for KLAX LoRaWAN electricity meter sensors (1 week ago)
