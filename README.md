@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 day ago)
-- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things (1 day ago)
-- [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker (2 days ago)
-- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (3 days ago)
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (2 days ago)
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things (2 days ago)
+- [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker (3 days ago)
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview (4 days ago)
 - [punk-security/SMBeagle](https://github.com/punk-security/SMBeagle) -  (1 week ago)
