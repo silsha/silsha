@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts (2 days ago)
 - [nschloe/deadlink](https://github.com/nschloe/deadlink) - :skull: Checks and fixes URLs in code and documentation. (2 days ago)
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (2 days ago)
-- [R-O-C-K-E-T/Factorio-SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers (2 days ago)
