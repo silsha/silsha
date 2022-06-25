@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [9P9/Discord-QR-Token-Logger](https://github.com/9P9/Discord-QR-Token-Logger) - Utilises Discord QR Login Feature To Create a Token Logger Scannable QR code! (1 day ago)
-- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources (1 day ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts (3 days ago)
-- [nschloe/deadlink](https://github.com/nschloe/deadlink) - :skull: Checks and fixes URLs in code and documentation. (3 days ago)
+- [9P9/Discord-QR-Token-Logger](https://github.com/9P9/Discord-QR-Token-Logger) - Utilises Discord QR Login Feature To Create a Token Logger Scannable QR code! (2 days ago)
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources (2 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 days ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts (4 days ago)
+- [nschloe/deadlink](https://github.com/nschloe/deadlink) - :skull: Checks and fixes URLs in code and documentation. (4 days ago)
