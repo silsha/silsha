@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) -  (today)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (2 days ago)
-- [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (2 days ago)
-- [9P9/Discord-QR-Token-Logger](https://github.com/9P9/Discord-QR-Token-Logger) - Utilises Discord QR Login Feature To Create a Token Logger Scannable QR code! (5 days ago)
-- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources (5 days ago)
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) -  (1 day ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (3 days ago)
+- [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (3 days ago)
+- [9P9/Discord-QR-Token-Logger](https://github.com/9P9/Discord-QR-Token-Logger) - Utilises Discord QR Login Feature To Create a Token Logger Scannable QR code! (6 days ago)
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources (6 days ago)
