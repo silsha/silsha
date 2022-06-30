@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) -  (2 days ago)
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - This is a minimal implementation of DALL·E Mini. It has been stripped to the bare essentials necessary for doing inference, and converted to PyTorch. (2 days ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (4 days ago)
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (4 days ago)
 - [9P9/Discord-QR-Token-Logger](https://github.com/9P9/Discord-QR-Token-Logger) - Utilises Discord QR Login Feature To Create a Token Logger Scannable QR code! (1 week ago)
