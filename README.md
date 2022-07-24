@@ -17,5 +17,5 @@
 - [Guinn-Partners/esp32-airtag](https://github.com/Guinn-Partners/esp32-airtag) - A stealth AirTag clone that bypasses all of Apple&#39;s tracking protection features (2 weeks ago)
 - [lutoma/shortdiary-ios](https://github.com/lutoma/shortdiary-ios) - iOS / iPadOS app for shortdiary (2 weeks ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (3 weeks ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (3 weeks ago)
-- [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (3 weeks ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (4 weeks ago)
+- [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (4 weeks ago)
