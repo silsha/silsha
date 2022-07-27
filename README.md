@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (today)
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. (today)
 - [Guinn-Partners/esp32-airtag](https://github.com/Guinn-Partners/esp32-airtag) - A stealth AirTag clone that bypasses all of Apple&#39;s tracking protection features (2 weeks ago)
 - [lutoma/shortdiary-ios](https://github.com/lutoma/shortdiary-ios) - iOS / iPadOS app for shortdiary (3 weeks ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (4 weeks ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
-- [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web (1 month ago)
