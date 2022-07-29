@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [Sh3lldor/PVT](https://github.com/Sh3lldor/PVT) - PCAP visualization tool (today)
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (2 days ago)
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. (2 days ago)
 - [Guinn-Partners/esp32-airtag](https://github.com/Guinn-Partners/esp32-airtag) - A stealth AirTag clone that bypasses all of Apple&#39;s tracking protection features (3 weeks ago)
 - [lutoma/shortdiary-ios](https://github.com/lutoma/shortdiary-ios) - iOS / iPadOS app for shortdiary (3 weeks ago)
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 month ago)
