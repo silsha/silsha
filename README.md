@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (today)
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (today)
-- [Sh3lldor/PVT](https://github.com/Sh3lldor/PVT) - PCAP visualization tool (5 days ago)
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (1 day ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (1 day ago)
+- [Sh3lldor/PVT](https://github.com/Sh3lldor/PVT) - PCAP visualization tool (6 days ago)
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (1 week ago)
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. (1 week ago)
