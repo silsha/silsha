@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) - A client for Grocy for macOS and iOS, written with SwiftUI (today)
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (1 day ago)
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (1 day ago)
-- [Sh3lldor/PVT](https://github.com/Sh3lldor/PVT) - PCAP visualization tool (6 days ago)
+- [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) - A client for Grocy for macOS and iOS, written with SwiftUI (1 day ago)
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (2 days ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (2 days ago)
+- [Sh3lldor/PVT](https://github.com/Sh3lldor/PVT) - PCAP visualization tool (1 week ago)
 - [yaqwsx/Pinion](https://github.com/yaqwsx/Pinion) - Generate interactive and nice-looking diagrams for your PCBs! (1 week ago)
