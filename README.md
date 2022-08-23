@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (today)
+- [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (1 day ago)
 - [wneessen/arrgo](https://github.com/wneessen/arrgo) - Arrgo is the 2nd evolution of the Sea of Thieves themes Discord bot (2 weeks ago)
 - [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) - A client for Grocy for macOS and iOS, written with SwiftUI (2 weeks ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (2 weeks ago)
