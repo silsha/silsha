@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (today)
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (1 day ago)
 - [wneessen/arrgo](https://github.com/wneessen/arrgo) - Arrgo is the 2nd evolution of the Sea of Thieves themes Discord bot (2 weeks ago)
 - [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) - A client for Grocy for macOS and iOS, written with SwiftUI (2 weeks ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (2 weeks ago)
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (2 weeks ago)
