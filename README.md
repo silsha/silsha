@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (2 days ago)
-- [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (3 days ago)
-- [wneessen/arrgo](https://github.com/wneessen/arrgo) - Arrgo is the 2nd evolution of the Sea of Thieves themes Discord bot (2 weeks ago)
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (3 days ago)
+- [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (4 days ago)
+- [wneessen/arrgo](https://github.com/wneessen/arrgo) - Arrgo is the 2nd evolution of the Sea of Thieves themes Discord bot (3 weeks ago)
 - [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) - A client for Grocy for macOS and iOS, written with SwiftUI (3 weeks ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon (3 weeks ago)
