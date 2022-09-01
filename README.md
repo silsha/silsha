@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (today)
-- [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI (2 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 day ago)
+- [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI (3 days ago)
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (1 week ago)
 - [kingyoPiyo/Pico-10BASE-T](https://github.com/kingyoPiyo/Pico-10BASE-T) - 10BASE-T from Raspberry Pi Pico (1 week ago)
 - [wneessen/arrgo](https://github.com/wneessen/arrgo) - Arrgo is the 2nd evolution of the Sea of Thieves themes Discord bot (3 weeks ago)
