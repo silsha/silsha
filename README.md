@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [saraqael-m/WaniKaniMiscStats](https://github.com/saraqael-m/WaniKaniMiscStats) - Webapp that shows WaniKani users statistics about their progress/journey with WK. (5 days ago)
+- [saraqael-m/WaniKaniMiscStats](https://github.com/saraqael-m/WaniKaniMiscStats) - Webapp that shows WaniKani users statistics about their progress/journey with WK. (6 days ago)
 - [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.  (1 week ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 week ago)
 - [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI (1 week ago)
