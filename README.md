@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (1 day ago)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (2 days ago)
+- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (2 days ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (3 days ago)
 - [saraqael-m/WaniKaniMiscStats](https://github.com/saraqael-m/WaniKaniMiscStats) - Webapp that shows WaniKani users statistics about their progress/journey with WK. (1 week ago)
 - [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI 3D printer by Prusa Research.  (1 week ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 week ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (2 weeks ago)
