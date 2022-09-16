@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
-- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (1 day ago)
-- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (3 days ago)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (4 days ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 day ago)
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (2 days ago)
+- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (4 days ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (5 days ago)
 - [saraqael-m/WaniKaniMiscStats](https://github.com/saraqael-m/WaniKaniMiscStats) - Webapp that shows WaniKani users statistics about their progress/journey with WK. (1 week ago)
