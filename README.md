@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (4 months ago)
+- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 days ago)
-- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (3 days ago)
-- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (5 days ago)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (6 days ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (3 days ago)
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (4 days ago)
+- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (6 days ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (1 week ago)
 - [saraqael-m/WaniKaniMiscStats](https://github.com/saraqael-m/WaniKaniMiscStats) - Webapp that shows WaniKani users statistics about their progress/journey with WK. (1 week ago)
