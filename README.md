@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (today)
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS (1 day ago)
 - [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (2 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (5 days ago)
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (6 days ago)
-- [niochat/nio](https://github.com/niochat/nio) - 💬 Nio is an upcoming matrix client for iOS. (1 week ago)
