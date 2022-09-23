@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (2 days ago)
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS (3 days ago)
-- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (4 days ago)
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (3 days ago)
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS (4 days ago)
+- [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (5 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 week ago)
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map (1 week ago)
