@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (today)
-- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (4 days ago)
+- [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (1 day ago)
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (5 days ago)
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (1 week ago)
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS (1 week ago)
 - [eritbh/1password-ssh-utils](https://github.com/eritbh/1password-ssh-utils) - Store per-host SSH keys in 1Password and automatically load them before you connect (1 week ago)
