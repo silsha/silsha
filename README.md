@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python. (5 days ago)
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python. (6 days ago)
 - [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (1 week ago)
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (1 week ago)
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (2 weeks ago)
