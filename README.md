@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (today)
+- [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (today)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python. (1 week ago)
 - [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (1 week ago)
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (2 weeks ago)
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends (2 weeks ago)
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS (2 weeks ago)
