@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (3 days ago)
-- [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (4 days ago)
-- [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (4 days ago)
+- [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (4 days ago)
+- [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (5 days ago)
+- [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (5 days ago)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python. (1 week ago)
 - [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (2 weeks ago)
