@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (today)
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (6 days ago)
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (1 week ago)
 - [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (1 week ago)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python. (2 weeks ago)
-- [TazMatic/laserControl](https://github.com/TazMatic/laserControl) -  (2 weeks ago)
