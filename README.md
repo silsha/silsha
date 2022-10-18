@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (5 months ago)
+- [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (2 days ago)
+- [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (3 days ago)
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (1 week ago)
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (1 week ago)
 - [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (1 week ago)
