@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 day ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (2 days ago)
 - [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (1 week ago)
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (2 weeks ago)
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (2 weeks ago)
