@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) -  (today)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (4 days ago)
 - [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (1 week ago)
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (2 weeks ago)
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (2 weeks ago)
-- [lutoma/mailmon](https://github.com/lutoma/mailmon) - Automated end-to-end email deliverability monitoring (2 weeks ago)
