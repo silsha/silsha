@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (today)
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (1 week ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
 - [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (3 weeks ago)
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers! (4 weeks ago)
-- [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) - Standalone utility for service discovery on open ports!  (4 weeks ago)
