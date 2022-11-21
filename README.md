@@ -17,5 +17,5 @@
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (1 week ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (2 weeks ago)
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (3 weeks ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (3 weeks ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (4 weeks ago)
 - [Fluepke/konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors (1 month ago)
