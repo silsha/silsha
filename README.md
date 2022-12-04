@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [jeffayle/Pokemon-Player-Piano-Version](https://github.com/jeffayle/Pokemon-Player-Piano-Version) - Pokemon Player Piano Version is a romhack of Pokemon FireRed Version that plays the game like a player piano using the &#34;blind and deaf&#34; input sequence developed by MartSnack (4 days ago)
-- [KeeyanGhoreshi/PokemonFireredSingleSequence](https://github.com/KeeyanGhoreshi/PokemonFireredSingleSequence) - A list of inputs that will beat the vast majority of Pokemon Firered games (4 days ago)
+- [jeffayle/Pokemon-Player-Piano-Version](https://github.com/jeffayle/Pokemon-Player-Piano-Version) - Pokemon Player Piano Version is a romhack of Pokemon FireRed Version that plays the game like a player piano using the &#34;blind and deaf&#34; input sequence developed by MartSnack (5 days ago)
+- [KeeyanGhoreshi/PokemonFireredSingleSequence](https://github.com/KeeyanGhoreshi/PokemonFireredSingleSequence) - A list of inputs that will beat the vast majority of Pokemon Firered games (5 days ago)
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (3 weeks ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (3 weeks ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (4 weeks ago)
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (1 month ago)
