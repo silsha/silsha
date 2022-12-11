@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 days ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (3 days ago)
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (7 months ago)
 
 #### 🌱 My latest projects
