@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (today)
 - [ranger-ross/nihongo-stats](https://github.com/ranger-ross/nihongo-stats) -  (today)
 - [jeffayle/Pokemon-Player-Piano-Version](https://github.com/jeffayle/Pokemon-Player-Piano-Version) - Pokemon Player Piano Version is a romhack of Pokemon FireRed Version that plays the game like a player piano using the &#34;blind and deaf&#34; input sequence developed by MartSnack (3 weeks ago)
 - [KeeyanGhoreshi/PokemonFireredSingleSequence](https://github.com/KeeyanGhoreshi/PokemonFireredSingleSequence) - A list of inputs that will beat the vast majority of Pokemon Firered games (3 weeks ago)
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (1 month ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. (1 month ago)
