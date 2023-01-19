@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (today)
 - [blabber/sine_nomine_2.5d](https://github.com/blabber/sine_nomine_2.5d) - an experiment to turn the classic ASCII roguelike aesthetics into something approximating a 3D representation (1 week ago)
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats (1 week ago)
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (4 weeks ago)
 - [ranger-ross/nihongo-stats](https://github.com/ranger-ross/nihongo-stats) -  (4 weeks ago)
-- [jeffayle/Pokemon-Player-Piano-Version](https://github.com/jeffayle/Pokemon-Player-Piano-Version) - Pokemon Player Piano Version is a romhack of Pokemon FireRed Version that plays the game like a player piano using the &#34;blind and deaf&#34; input sequence developed by MartSnack (1 month ago)
