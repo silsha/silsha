@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (today)
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (1 week ago)
 - [blabber/sine_nomine_2.5d](https://github.com/blabber/sine_nomine_2.5d) - an experiment to turn the classic ASCII roguelike aesthetics into something approximating a 3D representation (2 weeks ago)
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats (2 weeks ago)
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (1 month ago)
-- [ranger-ross/nihongo-stats](https://github.com/ranger-ross/nihongo-stats) -  (1 month ago)
