@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (today)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (1 day ago)
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (1 week ago)
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (2 weeks ago)
 - [blabber/sine_nomine_2.5d](https://github.com/blabber/sine_nomine_2.5d) - an experiment to turn the classic ASCII roguelike aesthetics into something approximating a 3D representation (3 weeks ago)
