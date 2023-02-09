@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (5 days ago)
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (6 days ago)
-- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (1 week ago)
-- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (2 weeks ago)
+- [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (6 days ago)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (1 week ago)
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (2 weeks ago)
+- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (3 weeks ago)
 - [blabber/sine_nomine_2.5d](https://github.com/blabber/sine_nomine_2.5d) - an experiment to turn the classic ASCII roguelike aesthetics into something approximating a 3D representation (4 weeks ago)
