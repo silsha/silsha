@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 days ago)
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (9 months ago)
 
 #### 🌱 My latest projects
@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (1 day ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (2 days ago)
 - [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (1 week ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (1 week ago)
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (2 weeks ago)
