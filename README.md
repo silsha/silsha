@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (4 days ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (5 days ago)
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (10 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (4 days ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (5 days ago)
 - [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (1 week ago)
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (1 week ago)
-- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (2 weeks ago)
-- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (3 weeks ago)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (2 weeks ago)
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (3 weeks ago)
+- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (4 weeks ago)
