@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens (1 day ago)
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens (2 days ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (1 week ago)
 - [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (2 weeks ago)
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (2 weeks ago)
-- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (3 weeks ago)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 weeks ago)
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (4 weeks ago)
