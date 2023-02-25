@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 week ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 weeks ago)
 - [silsha/tablepress_chartist](https://github.com/silsha/tablepress_chartist) - 📊 Create a responsive chart based on the data in a TablePress table (10 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens (3 days ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (1 week ago)
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens (4 days ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (2 weeks ago)
 - [DFHack/dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it (3 weeks ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 weeks ago)
-- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (4 weeks ago)
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler. (1 month ago)
