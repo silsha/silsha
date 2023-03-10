@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (today)
+- [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040. (1 day ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 - [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens (2 weeks ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (3 weeks ago)
