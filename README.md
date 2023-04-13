@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (today)
 - [ingyamilmolinar/doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - DoctorGPT brings GPT into production for error diagnosing! (3 days ago)
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (6 days ago)
 - [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (3 weeks ago)
 - [pfefferle/wordpress-activitypub](https://github.com/pfefferle/wordpress-activitypub) - ActivityPub for WordPress (1 month ago)
-- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck (1 month ago)
