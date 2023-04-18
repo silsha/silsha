@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (today)
+- [thinkJD/bibli-o-mat](https://github.com/thinkJD/bibli-o-mat) - A utility to auto renew your lent media. (today)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (5 days ago)
 - [ingyamilmolinar/doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - DoctorGPT brings GPT into production for error diagnosing! (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
-- [foorschtbar/LoRaSmartMeter](https://github.com/foorschtbar/LoRaSmartMeter) - A SmartMeter LoRaWAN Adapter with OLED (1 month ago)
-- [pfefferle/wordpress-activitypub](https://github.com/pfefferle/wordpress-activitypub) - ActivityPub for WordPress (1 month ago)
