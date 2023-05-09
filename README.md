@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox (1 day ago)
-- [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy! (1 day ago)
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (2 days ago)
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (5 days ago)
+- [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox (2 days ago)
+- [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy! (2 days ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (3 days ago)
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (6 days ago)
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon (2 weeks ago)
