@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (today)
 - [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox (3 days ago)
 - [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy! (3 days ago)
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (4 days ago)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (1 week ago)
-- [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon (2 weeks ago)
