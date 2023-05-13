@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (5 days ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (2 days ago)
-- [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox (5 days ago)
-- [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy! (5 days ago)
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (6 days ago)
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (3 days ago)
+- [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox (6 days ago)
+- [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy! (6 days ago)
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (1 week ago)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (1 week ago)
