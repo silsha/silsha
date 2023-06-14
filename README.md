@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (2 days ago)
-- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (4 days ago)
+- [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (3 days ago)
+- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (5 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 week ago)
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves (2 weeks ago)
 - [wp-bootstrap/wp-bootstrap-navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - A custom WordPress nav walker class to fully implement the Twitter Bootstrap 4.0&#43; navigation style (v3-branch available for Bootstrap 3) in a custom theme using the WordPress built in menu manager. (2 weeks ago)
