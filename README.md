@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (today)
-- [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (3 days ago)
-- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (5 days ago)
+- [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (1 day ago)
+- [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (4 days ago)
+- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (6 days ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 week ago)
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves (2 weeks ago)
