@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (today)
-- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (3 days ago)
+- [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (1 day ago)
+- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (4 days ago)
 - [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (1 week ago)
 - [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (2 weeks ago)
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server (2 weeks ago)
