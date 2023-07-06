@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 month ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (today)
+- [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (1 day ago)
 - [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (1 week ago)
-- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (1 week ago)
+- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (2 weeks ago)
 - [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (3 weeks ago)
 - [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it&#39;s in realtime (3 weeks ago)
