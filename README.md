@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (2 days ago)
+- [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (3 days ago)
 - [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (1 week ago)
 - [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (2 weeks ago)
 - [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (3 weeks ago)
