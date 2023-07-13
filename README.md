@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain (4 days ago)
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain (5 days ago)
 - [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (1 week ago)
 - [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (2 weeks ago)
-- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (2 weeks ago)
+- [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (3 weeks ago)
 - [jakecyr/gpt-text-to-diagram](https://github.com/jakecyr/gpt-text-to-diagram) - Generate software design diagram images from plain text using GPT models. (4 weeks ago)
