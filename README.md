@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic (today)
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain (5 days ago)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic (1 day ago)
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain (6 days ago)
 - [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (1 week ago)
 - [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (2 weeks ago)
 - [zhuowei/DSReality](https://github.com/zhuowei/DSReality) -  (3 weeks ago)
