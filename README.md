@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (today)
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (5 days ago)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic (1 week ago)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain (1 week ago)
 - [zakx/unfuck-edge](https://github.com/zakx/unfuck-edge) - Make MS Edge less annoying on macOS (2 weeks ago)
-- [thomasfn/EcoLawExtensionsMod](https://github.com/thomasfn/EcoLawExtensionsMod) -  (3 weeks ago)
