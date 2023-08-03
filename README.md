@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (today)
 - [ph1p/ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp (today)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally (1 day ago)
 - [DFHack/scripts](https://github.com/DFHack/scripts) - DFHack scripts (5 days ago)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (1 week ago)
-- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. (2 weeks ago)
