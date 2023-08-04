@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (today)
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 day ago)
 - [ph1p/ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp (1 day ago)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally (2 days ago)
 - [DFHack/scripts](https://github.com/DFHack/scripts) - DFHack scripts (6 days ago)
-- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (1 week ago)
