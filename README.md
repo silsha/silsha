@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (today)
+- [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (today)
 - [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (1 day ago)
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (1 week ago)
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 week ago)
-- [ph1p/ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp (1 week ago)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 week ago)
