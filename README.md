@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (5 days ago)
-- [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (5 days ago)
-- [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (6 days ago)
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (6 days ago)
+- [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (6 days ago)
+- [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (1 week ago)
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (1 week ago)
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 week ago)
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (2 weeks ago)
