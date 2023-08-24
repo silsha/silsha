@@ -16,6 +16,6 @@
 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (1 week ago)
 - [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (1 week ago)
-- [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (1 week ago)
+- [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (2 weeks ago)
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (2 weeks ago)
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (2 weeks ago)
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (3 weeks ago)
