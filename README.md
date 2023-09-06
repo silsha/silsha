@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (5 days ago)
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (6 days ago)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (3 weeks ago)
 - [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (3 weeks ago)
 - [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (3 weeks ago)
