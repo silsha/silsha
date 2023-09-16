@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (today)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (1 month ago)
 - [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (1 month ago)
 - [vector-im/element-x-ios](https://github.com/vector-im/element-x-ios) -  (1 month ago)
-- [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨ (1 month ago)
