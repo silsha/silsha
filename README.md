@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (1 day ago)
-- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (1 day ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (2 days ago)
+- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (2 days ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (1 month ago)
 - [flopp/invisible-characters](https://github.com/flopp/invisible-characters) - A static website abou invisible Unicode characters (1 month ago)
