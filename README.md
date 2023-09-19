@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (today)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (2 days ago)
-- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (2 days ago)
+- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (1 day ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (3 days ago)
+- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (3 days ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (1 month ago)
