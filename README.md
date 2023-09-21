@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (2 days ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (4 days ago)
-- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (4 days ago)
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
+- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O. (5 days ago)
+- [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh. (5 days ago)
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 weeks ago)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (1 month ago)
