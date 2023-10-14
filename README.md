@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (today)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 day ago)
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (5 days ago)
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client (6 days ago)
 - [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) - Pure-python ZUGFeRD implementation (1 week ago)
-- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (3 weeks ago)
