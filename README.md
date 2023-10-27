@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (today)
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (today)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (1 week ago)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (2 weeks ago)
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (2 weeks ago)
-- [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client (2 weeks ago)
-- [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) - Pure-python ZUGFeRD implementation (3 weeks ago)
