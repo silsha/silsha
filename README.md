@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 week ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -15,7 +15,7 @@
 #### ⭐ Recent Stars
 
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (1 week ago)
-- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 week ago)
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (2 weeks ago)
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (2 weeks ago)
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client (2 weeks ago)
-- [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) - Pure-python ZUGFeRD implementation (2 weeks ago)
+- [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) - Pure-python ZUGFeRD implementation (3 weeks ago)
