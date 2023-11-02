@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (3 days ago)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (4 days ago)
-- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (5 days ago)
-- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (5 days ago)
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (4 days ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (5 days ago)
+- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (6 days ago)
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (6 days ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (2 weeks ago)
