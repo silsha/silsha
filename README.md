@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 weeks ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (4 days ago)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (5 days ago)
-- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (6 days ago)
-- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (6 days ago)
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (5 days ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (6 days ago)
+- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (1 week ago)
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (1 week ago)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (2 weeks ago)
