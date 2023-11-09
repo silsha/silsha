@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (today)
 - [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (4 days ago)
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (1 week ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 week ago)
 - [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (1 week ago)
-- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification) (1 week ago)
