@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (today)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (3 days ago)
+- [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (4 days ago)
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (1 week ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 week ago)
 - [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (1 week ago)
