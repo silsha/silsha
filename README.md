@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (today)
 - [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (2 days ago)
 - [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (6 days ago)
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free &amp; Open Source Alternative to DocuSign (1 week ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 weeks ago)
-- [BANDAS-Center/aTrain](https://github.com/BANDAS-Center/aTrain) -  (2 weeks ago)
