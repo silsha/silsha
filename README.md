@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (3 days ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (2 days ago)
-- [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (2 days ago)
-- [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (4 days ago)
-- [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (6 days ago)
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (3 days ago)
+- [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (3 days ago)
+- [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (5 days ago)
+- [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (1 week ago)
 - [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (1 week ago)
