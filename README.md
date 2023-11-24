@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (today)
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (1 day ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (1 week ago)
 - [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (1 week ago)
