@@ -15,7 +15,7 @@
 #### ⭐ Recent Stars
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (1 week ago)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (2 weeks ago)
-- [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (2 weeks ago)
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (3 weeks ago)
+- [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (3 weeks ago)
 - [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (3 weeks ago)
 - [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (3 weeks ago)
