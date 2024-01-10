@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients. (today)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (1 month ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 month ago)
 - [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives (1 month ago)
 - [dper/kanjioftheday](https://github.com/dper/kanjioftheday) - Produces a piece of HTML showing kanji of the day and some information about it. (2 months ago)
-- [DasUnicorn/bahndle](https://github.com/DasUnicorn/bahndle) - German train travel guessing game with Deutsche Bahn Data (2 months ago)
