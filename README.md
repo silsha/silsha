@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (today)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (today)
-- [philipp-schuetz/zangendeutsch.de](https://github.com/philipp-schuetz/zangendeutsch.de) - Zangendeutsch Wörterbuch (today)
-- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters (today)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (2 weeks ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
+- [philipp-schuetz/zangendeutsch.de](https://github.com/philipp-schuetz/zangendeutsch.de) - Zangendeutsch Wörterbuch (1 day ago)
+- [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters (1 day ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 weeks ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 weeks ago)
