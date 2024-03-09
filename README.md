@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage) - Main source code of Vernissage iOS app (2 days ago)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 days ago)
-- [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning (3 days ago)
-- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (4 days ago)
+- [VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage) - Main source code of Vernissage iOS app (3 days ago)
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (4 days ago)
+- [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning (4 days ago)
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (5 days ago)
 - [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 week ago)
