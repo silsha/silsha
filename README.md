@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage) - Main source code of Vernissage iOS app (6 days ago)
+- [VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage) - Main source code of Vernissage iOS app (1 week ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 week ago)
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning (1 week ago)
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS  (1 week ago)
