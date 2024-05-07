@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (today)
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (1 day ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin &amp; uBlacklist. (1 month ago)
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸 (1 month ago)
 - [VernissageApp/Vernissage](https://github.com/VernissageApp/Vernissage) - Main source code of Vernissage iOS app (2 months ago)
