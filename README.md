@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 days ago)
-- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (5 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (4 days ago)
+- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (6 days ago)
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin (1 week ago)
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone! (1 week ago)
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module (3 weeks ago)
