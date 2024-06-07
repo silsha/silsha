@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (today)
 - [Pixtxa/TWANG32-Hack](https://github.com/Pixtxa/TWANG32-Hack) - ESP32 Port of TWANG LED Game (6 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (1 week ago)
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin (2 weeks ago)
-- [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone! (2 weeks ago)
