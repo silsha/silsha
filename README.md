@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (3 days ago)
-- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (3 days ago)
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (4 days ago)
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (4 days ago)
 - [Pixtxa/TWANG32-Hack](https://github.com/Pixtxa/TWANG32-Hack) - ESP32 Port of TWANG LED Game (1 week ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (2 weeks ago)
