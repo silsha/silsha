@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (3 days ago)
+- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (4 days ago)
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (1 week ago)
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (1 week ago)
 - [Pixtxa/TWANG32-Hack](https://github.com/Pixtxa/TWANG32-Hack) - ESP32 Port of TWANG LED Game (2 weeks ago)
