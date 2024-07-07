@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (today)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [slmjkdbtl/dskill](https://github.com/slmjkdbtl/dskill) - 🔪 kill .DS_Store (2 days ago)
-- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (4 days ago)
+- [slmjkdbtl/dskill](https://github.com/slmjkdbtl/dskill) - 🔪 kill .DS_Store (3 days ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (5 days ago)
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (3 weeks ago)
-- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (4 weeks ago)
-- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (4 weeks ago)
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (1 month ago)
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (1 month ago)
