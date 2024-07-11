@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (4 days ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [slmjkdbtl/dskill](https://github.com/slmjkdbtl/dskill) - 🔪 kill .DS_Store (6 days ago)
+- [slmjkdbtl/dskill](https://github.com/slmjkdbtl/dskill) - 🔪 kill .DS_Store (1 week ago)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 week ago)
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (4 weeks ago)
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem (1 month ago)
