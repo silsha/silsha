@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. (today)
-- [derf/travelynx](https://github.com/derf/travelynx) - Traewelling-inspired journey logger with realtime data (1 day ago)
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. (1 day ago)
+- [derf/travelynx](https://github.com/derf/travelynx) - Traewelling-inspired journey logger with realtime data (2 days ago)
 - [slmjkdbtl/dskill](https://github.com/slmjkdbtl/dskill) - 🔪 kill .DS_Store (1 week ago)
-- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 week ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (2 weeks ago)
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (1 month ago)
