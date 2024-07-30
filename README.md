@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (today)
-- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (today)
-- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (4 days ago)
+- [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (1 day ago)
+- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (1 day ago)
+- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (5 days ago)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (1 week ago)
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (1 week ago)
