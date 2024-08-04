@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files. (2 days ago)
-- [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (5 days ago)
-- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (5 days ago)
+- [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files. (3 days ago)
+- [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (6 days ago)
+- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (6 days ago)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (1 week ago)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (1 week ago)
