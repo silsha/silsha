@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (today)
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files. (1 week ago)
 - [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (2 weeks ago)
 - [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (2 weeks ago)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (2 weeks ago)
-- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (3 weeks ago)
