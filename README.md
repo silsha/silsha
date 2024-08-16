@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
-- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 day ago)
-- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (2 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 days ago)
+- [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (2 days ago)
+- [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (3 days ago)
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files. (2 weeks ago)
 - [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (2 weeks ago)
