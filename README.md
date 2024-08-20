@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [DasUnicorn/BahnBingo](https://github.com/DasUnicorn/BahnBingo) - Random Bingo Sheet for DB delays (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (6 days ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (6 days ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files. (2 weeks ago)
-- [bundesAPI/bundestag-tagesordnung-api](https://github.com/bundesAPI/bundestag-tagesordnung-api) - bundestag tagesordnung app api (3 weeks ago)
