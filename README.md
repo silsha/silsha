@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (1 day ago)
-- [DasUnicorn/BahnBingo](https://github.com/DasUnicorn/BahnBingo) - Random Bingo Sheet for DB delays (1 day ago)
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (2 days ago)
+- [DasUnicorn/BahnBingo](https://github.com/DasUnicorn/BahnBingo) - Random Bingo Sheet for DB delays (2 days ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
 - [elsbrock/cowboy-ha](https://github.com/elsbrock/cowboy-ha) - 🤠 Custom Home Assistant Integration for Cowboy Bikes 🚲💨 (1 week ago)
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - :detective: Track prices of the Hetzner dedicated server auction (1 week ago)
