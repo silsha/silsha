@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [levithas/Thermomanometer-Present](https://github.com/levithas/Thermomanometer-Present) - This code runs on a ESP8266 with an BMP180 sensor and NeoPixel LED strip to show temperature and pressure. It also contains a little riddle. (1 day ago)
-- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (2 days ago)
-- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (5 days ago)
+- [levithas/Thermomanometer-Present](https://github.com/levithas/Thermomanometer-Present) - This code runs on a ESP8266 with an BMP180 sensor and NeoPixel LED strip to show temperature and pressure. It also contains a little riddle. (2 days ago)
+- [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (3 days ago)
+- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (6 days ago)
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (1 week ago)
 - [DasUnicorn/BahnBingo](https://github.com/DasUnicorn/BahnBingo) - Random Bingo Sheet for DB delays (1 week ago)
