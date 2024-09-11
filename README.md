@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) - Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot) (today)
+- [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) - Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot) (1 day ago)
 - [levithas/Thermomanometer-Present](https://github.com/levithas/Thermomanometer-Present) - This code runs on a ESP8266 with an BMP180 sensor and NeoPixel LED strip to show temperature and pressure. It also contains a little riddle. (2 weeks ago)
 - [laktak/chkbit](https://github.com/laktak/chkbit) - Check your files for data corruption (2 weeks ago)
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (2 weeks ago)
