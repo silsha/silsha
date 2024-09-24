@@ -17,5 +17,5 @@
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (1 week ago)
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (1 week ago)
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool (1 week ago)
-- [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) - Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot) (1 week ago)
-- [levithas/Thermomanometer-Present](https://github.com/levithas/Thermomanometer-Present) - This code runs on a ESP8266 with an BMP180 sensor and NeoPixel LED strip to show temperature and pressure. It also contains a little riddle. (3 weeks ago)
+- [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) - Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot) (2 weeks ago)
+- [levithas/Thermomanometer-Present](https://github.com/levithas/Thermomanometer-Present) - This code runs on a ESP8266 with an BMP180 sensor and NeoPixel LED strip to show temperature and pressure. It also contains a little riddle. (4 weeks ago)
