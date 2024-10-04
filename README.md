@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (2 months ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [doranchak/azdecrypt](https://github.com/doranchak/azdecrypt) - azdecrypt is a fast and powerful hillclimbing classical cipher solver written in freebasic (4 days ago)
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (4 days ago)
+- [doranchak/azdecrypt](https://github.com/doranchak/azdecrypt) - azdecrypt is a fast and powerful hillclimbing classical cipher solver written in freebasic (5 days ago)
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (5 days ago)
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (2 weeks ago)
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (2 weeks ago)
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool (3 weeks ago)
