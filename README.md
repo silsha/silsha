@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - [doranchak/azdecrypt](https://github.com/doranchak/azdecrypt) - azdecrypt is a fast and powerful hillclimbing classical cipher solver written in freebasic (1 week ago)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (1 week ago)
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (3 weeks ago)
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) -  A list of awesome resources for zellij (3 weeks ago)
-- [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool (3 weeks ago)
