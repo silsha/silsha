@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels. (today)
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (4 weeks ago)
+- [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels. (1 day ago)
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 month ago)
 - [doranchak/azdecrypt](https://github.com/doranchak/azdecrypt) - azdecrypt is a fast and powerful hillclimbing classical cipher solver written in freebasic (1 month ago)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (1 month ago)
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources. (1 month ago)
