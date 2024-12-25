@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 &#43; 🎯 &#43; 🐍 = Everything you need to query Apple&#39;s FindMy network! (2 days ago)
-- [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services. (6 days ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 week ago)
+- [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 &#43; 🎯 &#43; 🐍 = Everything you need to query Apple&#39;s FindMy network! (3 days ago)
+- [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services. (1 week ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (2 weeks ago)
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner. (3 weeks ago)
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers. (3 weeks ago)
