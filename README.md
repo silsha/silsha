@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt (today)
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (1 week ago)
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 &#43; 🎯 &#43; 🐍 = Everything you need to query Apple&#39;s FindMy network! (1 week ago)
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services. (2 weeks ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 weeks ago)
-- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner. (1 month ago)
