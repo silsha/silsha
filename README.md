@@ -18,4 +18,4 @@
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt (1 week ago)
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (3 weeks ago)
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 &#43; 🎯 &#43; 🐍 = Everything you need to query Apple&#39;s FindMy network! (3 weeks ago)
-- [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services. (4 weeks ago)
+- [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services. (1 month ago)
