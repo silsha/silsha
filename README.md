@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (3 days ago)
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units (4 days ago)
 - [fredrikburmester/marlin-search](https://github.com/fredrikburmester/marlin-search) - A jellyfin search companion (2 weeks ago)
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt (2 weeks ago)
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (4 weeks ago)
