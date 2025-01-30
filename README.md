@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (today)
-- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (4 days ago)
-- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin (6 days ago)
+- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (1 day ago)
+- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (5 days ago)
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin (1 week ago)
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units (1 week ago)
 - [fredrikburmester/marlin-search](https://github.com/fredrikburmester/marlin-search) - A jellyfin search companion (3 weeks ago)
