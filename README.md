@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (today)
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze. (today)
-- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (6 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 day ago)
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze. (1 day ago)
+- [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (1 week ago)
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 week ago)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin (1 week ago)
