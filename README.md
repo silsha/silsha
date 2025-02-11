@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 day ago)
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows. (4 days ago)
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (6 days ago)
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze. (6 days ago)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (2 days ago)
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows. (5 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze. (1 week ago)
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler (1 week ago)
