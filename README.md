@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (today)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (2 days ago)
-- [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (6 days ago)
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (6 days ago)
+- [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (1 day ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (3 days ago)
+- [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (1 week ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 week ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 week ago)
