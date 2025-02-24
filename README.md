@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (5 days ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (6 days ago)
 - [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (7 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (3 days ago)
-- [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (4 days ago)
-- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (6 days ago)
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (4 days ago)
+- [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (5 days ago)
+- [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
 - [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (1 week ago)
 - [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 week ago)
