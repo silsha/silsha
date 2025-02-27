@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (6 days ago)
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (1 week ago)
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
-- [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (1 week ago)
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 week ago)
+- [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (2 weeks ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (2 weeks ago)
