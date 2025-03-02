@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (2 days ago)
+- [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (3 days ago)
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (1 week ago)
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (1 week ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 week ago)
