@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (4 weeks ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 month ago)
 - [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (8 months ago)
 
 #### 🌱 My latest projects
@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (2 weeks ago)
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (3 weeks ago)
+- [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (3 weeks ago)
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (4 weeks ago)
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK (4 weeks ago)
 - [elsbrock/plundrio](https://github.com/elsbrock/plundrio) - 🏴‍☠️ put.io download client for *arr implementing the transmission RPC interface (1 month ago)
 - [yuxinqi-chan/Sonarr-TMDB](https://github.com/yuxinqi-chan/Sonarr-TMDB) -  (1 month ago)
