@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (today)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (today)
 - [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (today)
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 week ago)
 - [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (1 month ago)
-- [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers (1 month ago)
