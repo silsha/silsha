@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (1 day ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (1 day ago)
-- [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (1 day ago)
+- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (2 days ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (2 days ago)
+- [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (2 days ago)
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 week ago)
 - [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (1 month ago)
