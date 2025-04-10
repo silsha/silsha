@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [VernissageApp/VernissageWeb](https://github.com/VernissageApp/VernissageWeb) - Application which is Web component for Vernissage photos sharing platform. (today)
 - [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (3 days ago)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (3 days ago)
 - [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (3 days ago)
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 week ago)
-- [NikxDa/actual-moneymoney](https://github.com/NikxDa/actual-moneymoney) - A CLI tool to import transactions from MoneyMoney to Actual. (1 month ago)
