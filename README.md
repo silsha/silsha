@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [VernissageApp/VernissageWeb](https://github.com/VernissageApp/VernissageWeb) - Application which is Web component for Vernissage photos sharing platform. (1 day ago)
-- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (4 days ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (4 days ago)
-- [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (4 days ago)
+- [VernissageApp/VernissageWeb](https://github.com/VernissageApp/VernissageWeb) - Application which is Web component for Vernissage photos sharing platform. (2 days ago)
+- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (5 days ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (5 days ago)
+- [Irrational-Encoding-Wizardry/yuuno](https://github.com/Irrational-Encoding-Wizardry/yuuno) - Yuuno = VapourSynth &#43; Jupyter (5 days ago)
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 week ago)
