@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues) - Documentation and Tracking of Issues in GTFS- and GTFS-RT Feeds (today)
+- [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles (today)
+- [Traewelling/traewelling](https://github.com/Traewelling/traewelling) - Free check-in service to log your public transit journeys (today)
 - [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2 (today)
 - [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing. (today)
-- [VernissageApp/VernissageWeb](https://github.com/VernissageApp/VernissageWeb) - Application which is Web component for Vernissage photos sharing platform. (2 days ago)
-- [blairjordan/codachi](https://github.com/blairjordan/codachi) - 👾 A virtual pet for VS Code (5 days ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (5 days ago)
