@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues) - Documentation and Tracking of Issues in GTFS- and GTFS-RT Feeds (1 day ago)
-- [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles (1 day ago)
-- [Traewelling/traewelling](https://github.com/Traewelling/traewelling) - Free check-in service to log your public transit journeys (1 day ago)
-- [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2 (1 day ago)
-- [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing. (1 day ago)
+- [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues) - Documentation and Tracking of Issues in GTFS- and GTFS-RT Feeds (2 days ago)
+- [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles (2 days ago)
+- [Traewelling/traewelling](https://github.com/Traewelling/traewelling) - Free check-in service to log your public transit journeys (2 days ago)
+- [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2 (2 days ago)
+- [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing. (2 days ago)
