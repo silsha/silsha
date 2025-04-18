@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ (today)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (1 day ago)
 - [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues) - Documentation and Tracking of Issues in GTFS- and GTFS-RT Feeds (6 days ago)
 - [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles (6 days ago)
 - [Traewelling/traewelling](https://github.com/Traewelling/traewelling) - Free check-in service to log your public transit journeys (6 days ago)
-- [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) - an open directory of mobility feeds and operators — powers both Transitland v1 and v2 (6 days ago)
