@@ -16,7 +16,7 @@
 #### ⭐ Recent Stars
 
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) -  (2 weeks ago)
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ (2 weeks ago)
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ (3 weeks ago)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (3 weeks ago)
 - [mfdz/GTFS-Issues](https://github.com/mfdz/GTFS-Issues) - Documentation and Tracking of Issues in GTFS- and GTFS-RT Feeds (3 weeks ago)
 - [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles (3 weeks ago)
