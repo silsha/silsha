@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [hif2k1/battery_sim](https://github.com/hif2k1/battery_sim) - Home assistant home battery simulator - allows you to model how much energy you would save with a home battery (1 day ago)
+- [hif2k1/battery_sim](https://github.com/hif2k1/battery_sim) - Home assistant home battery simulator - allows you to model how much energy you would save with a home battery (2 days ago)
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) -  (3 weeks ago)
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ (3 weeks ago)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (3 weeks ago)
