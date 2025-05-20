@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (today)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 day ago)
 - [hif2k1/battery_sim](https://github.com/hif2k1/battery_sim) - Home assistant home battery simulator - allows you to model how much energy you would save with a home battery (1 week ago)
-- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) -  (4 weeks ago)
+- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) -  (1 month ago)
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ (1 month ago)
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff (1 month ago)
