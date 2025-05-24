@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (1 day ago)
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS. (3 days ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (4 days ago)
+- [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (2 days ago)
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS. (4 days ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (5 days ago)
 - [hif2k1/battery_sim](https://github.com/hif2k1/battery_sim) - Home assistant home battery simulator - allows you to model how much energy you would save with a home battery (1 week ago)
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) -  (1 month ago)
