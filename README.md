@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (6 days ago)
+- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 week ago)
 - [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (3 months ago)
 - [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (10 months ago)
 
@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (today)
-- [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (6 days ago)
+- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (1 day ago)
+- [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (1 week ago)
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS. (1 week ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 week ago)
 - [hif2k1/battery_sim](https://github.com/hif2k1/battery_sim) - Home assistant home battery simulator - allows you to model how much energy you would save with a home battery (2 weeks ago)
