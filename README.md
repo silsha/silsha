@@ -16,7 +16,7 @@
 
 #### ⭐ Recent Stars
 
-- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (6 days ago)
+- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (1 week ago)
 - [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (1 week ago)
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS. (2 weeks ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (2 weeks ago)
