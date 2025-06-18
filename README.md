@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (3 weeks ago)
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (3 months ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (4 months ago)
 - [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (11 months ago)
 
 #### 🌱 My latest projects
@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (6 days ago)
-- [kenrick95/ikuyo](https://github.com/kenrick95/ikuyo) - Plan your next trip! (6 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (6 days ago)
-- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (2 weeks ago)
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 week ago)
+- [kenrick95/ikuyo](https://github.com/kenrick95/ikuyo) - Plan your next trip! (1 week ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 week ago)
+- [OpenOLAT/OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) - Learning Management System OpenOlat (3 weeks ago)
 - [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards (3 weeks ago)
