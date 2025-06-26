@@ -16,8 +16,8 @@
 
 #### ⭐ Recent Stars
 
-- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (today)
-- [julijane/iceportal-leecher](https://github.com/julijane/iceportal-leecher) - Get the content from ICE onboard entertainment portal (magazines, audiobooks) (3 days ago)
-- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (3 days ago)
+- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (1 day ago)
+- [julijane/iceportal-leecher](https://github.com/julijane/iceportal-leecher) - Get the content from ICE onboard entertainment portal (magazines, audiobooks) (4 days ago)
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (4 days ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (2 weeks ago)
 - [kenrick95/ikuyo](https://github.com/kenrick95/ikuyo) - Plan your next trip! (2 weeks ago)
