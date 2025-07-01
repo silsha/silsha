@@ -4,7 +4,7 @@
 
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (1 month ago)
 - [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (4 months ago)
-- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (11 months ago)
+- [ohaisocial/about](https://github.com/ohaisocial/about) - About page for the ohai.social Mastodon server (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -16,7 +16,7 @@
 
 #### ⭐ Recent Stars
 
-- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (5 days ago)
+- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (6 days ago)
 - [julijane/iceportal-leecher](https://github.com/julijane/iceportal-leecher) - Get the content from ICE onboard entertainment portal (magazines, audiobooks) (1 week ago)
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (1 week ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (2 weeks ago)
