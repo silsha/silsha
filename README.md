@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (today)
+- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (2 weeks ago)
 - [julijane/iceportal-leecher](https://github.com/julijane/iceportal-leecher) - Get the content from ICE onboard entertainment portal (magazines, audiobooks) (2 weeks ago)
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (2 weeks ago)
