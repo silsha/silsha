@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE (today)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp (2 weeks ago)
 - [julijane/iceportal-leecher](https://github.com/julijane/iceportal-leecher) - Get the content from ICE onboard entertainment portal (magazines, audiobooks) (2 weeks ago)
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3) (2 weeks ago)
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (4 weeks ago)
