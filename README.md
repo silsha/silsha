@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (2 days ago)
-- [albert7617/trmnl-japanese](https://github.com/albert7617/trmnl-japanese) -  (3 days ago)
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (3 days ago)
+- [albert7617/trmnl-japanese](https://github.com/albert7617/trmnl-japanese) -  (4 days ago)
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library (1 week ago)
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. (1 week ago)
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE (2 weeks ago)
