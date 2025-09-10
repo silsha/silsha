@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
 - [morgansleeper/Yamanotes](https://github.com/morgansleeper/Yamanotes) - A music box of train station melodies from the JR Yamanote Line 🚃 (1 week ago)
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) -  (1 month ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 month ago)
