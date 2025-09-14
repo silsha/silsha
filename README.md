@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
 - [morgansleeper/Yamanotes](https://github.com/morgansleeper/Yamanotes) - A music box of train station melodies from the JR Yamanote Line 🚃 (2 weeks ago)
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) -  (1 month ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 month ago)
-- [johnoneil/arib](https://github.com/johnoneil/arib) - Japan Association of Radio Industries and Businesses (ARIB) MPEG2 Transport Stream Closed Caption Decoding Tools (1 month ago)
