@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (6 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 - [morgansleeper/Yamanotes](https://github.com/morgansleeper/Yamanotes) - A music box of train station melodies from the JR Yamanote Line 🚃 (3 weeks ago)
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) -  (1 month ago)
