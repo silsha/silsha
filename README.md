@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32 (today)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
+- [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32 (1 day ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 weeks ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
 - [morgansleeper/Yamanotes](https://github.com/morgansleeper/Yamanotes) - A music box of train station melodies from the JR Yamanote Line 🚃 (1 month ago)
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) -  (1 month ago)
