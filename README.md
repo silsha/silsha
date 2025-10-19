@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (4 months ago)
+- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (5 months ago)
 - [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. (3 days ago)
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. (4 days ago)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 week ago)
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32 (2 weeks ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
