@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [datapartyjs/meshmarauder](https://github.com/datapartyjs/meshmarauder) - LoRa mesh radio pentesting tool (1 day ago)
-- [jeremiah-k/meshtastic-matrix-relay](https://github.com/jeremiah-k/meshtastic-matrix-relay) - A relay between a Matrix.org room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org or Meshtastic. (1 day ago)
+- [datapartyjs/meshmarauder](https://github.com/datapartyjs/meshmarauder) - LoRa mesh radio pentesting tool (2 days ago)
+- [jeremiah-k/meshtastic-matrix-relay](https://github.com/jeremiah-k/meshtastic-matrix-relay) - A relay between a Matrix.org room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org or Meshtastic. (2 days ago)
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript. (1 week ago)
-- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (1 week ago)
+- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (2 weeks ago)
 - [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether. (2 weeks ago)
