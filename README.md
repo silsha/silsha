@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name &#34;Reitti&#34; comes from Finnish, meaning &#34;route&#34; or &#34;path&#34;. (4 days ago)
+- [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name &#34;Reitti&#34; comes from Finnish, meaning &#34;route&#34; or &#34;path&#34;. (5 days ago)
 - [datapartyjs/meshmarauder](https://github.com/datapartyjs/meshmarauder) - LoRa mesh radio pentesting tool (1 week ago)
 - [jeremiah-k/meshtastic-matrix-relay](https://github.com/jeremiah-k/meshtastic-matrix-relay) - A relay between a Matrix.org room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org or Meshtastic. (1 week ago)
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript. (2 weeks ago)
