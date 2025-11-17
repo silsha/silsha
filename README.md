@@ -19,4 +19,4 @@
 - [datapartyjs/meshmarauder](https://github.com/datapartyjs/meshmarauder) - LoRa mesh radio pentesting tool (2 weeks ago)
 - [jeremiah-k/meshtastic-matrix-relay](https://github.com/jeremiah-k/meshtastic-matrix-relay) - A relay between a Matrix.org room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org or Meshtastic. (2 weeks ago)
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript. (3 weeks ago)
-- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (3 weeks ago)
+- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (4 weeks ago)
