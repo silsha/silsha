@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (5 months ago)
+- [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (6 months ago)
 - [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (9 months ago)
 
 #### 🌱 My latest projects
@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name &#34;Reitti&#34; comes from Finnish, meaning &#34;route&#34; or &#34;path&#34;. (1 week ago)
+- [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name &#34;Reitti&#34; comes from Finnish, meaning &#34;route&#34; or &#34;path&#34;. (2 weeks ago)
 - [datapartyjs/meshmarauder](https://github.com/datapartyjs/meshmarauder) - LoRa mesh radio pentesting tool (2 weeks ago)
 - [jeremiah-k/meshtastic-matrix-relay](https://github.com/jeremiah-k/meshtastic-matrix-relay) - A relay between a Matrix.org room and a Meshtastic radio. This relay extends your Matrix.org-based communication with a LoRa-based Meshtastic radio mesh. This is not an official product of Matrix.org or Meshtastic. (2 weeks ago)
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript. (3 weeks ago)
