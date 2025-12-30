@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (today)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 week ago)
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
+- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (1 day ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 weeks ago)
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (2 weeks ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (2 weeks ago)
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. (4 weeks ago)
