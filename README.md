@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (1 week ago)
+- [kd2org/karadav](https://github.com/kd2org/karadav) - Lightweight NextCloud compatible WebDAV server (1 day ago)
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (1 day ago)
+- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 weeks ago)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (3 weeks ago)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (1 month ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (1 month ago)
