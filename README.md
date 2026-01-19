@@ -15,8 +15,8 @@
 
 #### ⭐ Recent Stars
 
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (today)
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (1 day ago)
 - [kd2org/karadav](https://github.com/kd2org/karadav) - Lightweight NextCloud compatible WebDAV server (1 week ago)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (1 week ago)
-- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (2 weeks ago)
+- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) - Zügli - train tickets to wallet passes  (3 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
