@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (6 days ago)
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (1 week ago)
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling (1 week ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (1 week ago)
 - [kd2org/karadav](https://github.com/kd2org/karadav) - Lightweight NextCloud compatible WebDAV server (2 weeks ago)
