@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (today)
+- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (1 day ago)
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (2 weeks ago)
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling (2 weeks ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (2 weeks ago)
