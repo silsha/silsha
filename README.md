@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (8 months ago)
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (11 months ago)
+- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -15,7 +15,7 @@
 
 #### ⭐ Recent Stars
 
-- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (6 days ago)
+- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (1 week ago)
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (3 weeks ago)
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling (3 weeks ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (3 weeks ago)
