@@ -18,5 +18,5 @@
 - [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (1 week ago)
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (3 weeks ago)
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling (3 weeks ago)
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (3 weeks ago)
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (4 weeks ago)
 - [kd2org/karadav](https://github.com/kd2org/karadav) - Lightweight NextCloud compatible WebDAV server (1 month ago)
