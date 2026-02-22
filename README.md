@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [VernissageApp/VernissageServer](https://github.com/VernissageApp/VernissageServer) - Application which is main API component for Vernissage photos sharing platform. (9 months ago)
-- [yuxinqi-chan/skyhook-tmdb-worker](https://github.com/yuxinqi-chan/skyhook-tmdb-worker) -  (1 year ago)
 
 #### 🌱 My latest projects
 
