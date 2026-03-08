@@ -14,8 +14,8 @@
 
 #### ⭐ Recent Stars
 
-- [Baekdal/Bird-ID-detector-like-MerlinID](https://github.com/Baekdal/Bird-ID-detector-like-MerlinID) - The Merlin Bird ID is great, but it has one major flaw. When it&#39;s recording audio to detect the birds, stores that file. This create a privacy problem because it means it&#39;s also recording everything else, including you. This Python script solves that by streaming the audio instead. The audio is this never saved, but you still get to known the birds (today)
-- [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust (4 weeks ago)
+- [Baekdal/Bird-ID-detector-like-MerlinID](https://github.com/Baekdal/Bird-ID-detector-like-MerlinID) - The Merlin Bird ID is great, but it has one major flaw. When it&#39;s recording audio to detect the birds, stores that file. This create a privacy problem because it means it&#39;s also recording everything else, including you. This Python script solves that by streaming the audio instead. The audio is this never saved, but you still get to known the birds (1 day ago)
+- [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust (1 month ago)
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (1 month ago)
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling (1 month ago)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (1 month ago)
