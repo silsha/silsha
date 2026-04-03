@@ -14,7 +14,7 @@
 
 #### ⭐ Recent Stars
 
-- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (3 days ago)
+- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (4 days ago)
 - [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B&#43; 0W2 and more. Built on the TFLite version of BirdNET. (3 weeks ago)
 - [Baekdal/Bird-ID-detector-like-MerlinID](https://github.com/Baekdal/Bird-ID-detector-like-MerlinID) - The Merlin Bird ID is great, but it has one major flaw. When it&#39;s recording audio to detect the birds, stores that file. This create a privacy problem because it means it&#39;s also recording everything else, including you. This Python script solves that by streaming the audio instead. The audio is this never saved, but you still get to known the birds (3 weeks ago)
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust (1 month ago)
