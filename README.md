@@ -14,7 +14,7 @@
 #### ⭐ Recent Stars
 
 - [etkecc/ketesa](https://github.com/etkecc/ketesa) - Admin UI for Matrix servers, formerly Synapse Admin. Drop-in replacement with extended features, multi-backend support, and visual customization. (1 week ago)
-- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (1 week ago)
+- [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (1 week ago)
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (3 months ago)
 - [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B&#43; 0W2 and more. Built on the TFLite version of BirdNET. (4 months ago)
 - [Baekdal/Bird-ID-detector-like-MerlinID](https://github.com/Baekdal/Bird-ID-detector-like-MerlinID) - The Merlin Bird ID is great, but it has one major flaw. When it&#39;s recording audio to detect the birds, stores that file. This create a privacy problem because it means it&#39;s also recording everything else, including you. This Python script solves that by streaming the audio instead. The audio is this never saved, but you still get to known the birds (4 months ago)
